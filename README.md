@@ -26,12 +26,8 @@ A high-performance real-time dashboard that renders **10,000+ points at 60 FPS**
 - **No chart libraries** and **no blocking work** on the main React tree
 
 ---
-## 🖼️ Screenshots
+|
 
-| Dashboard (overview) | Line + Scatter | Bar + Heatmap |
-|-----------------------|----------------|----------------|
-| ![Dashboard](./public/screenshots/dashboard-overview.png) | ![Line Scatter](./public/screenshots/line-scatter.png) | ![Bar Heatmap](./public/screenshots/bar-heatmap.png) |
- |
 
 
 ## 🧱 Tech Stack & Key Decisions
